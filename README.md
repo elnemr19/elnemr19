@@ -4,12 +4,12 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Abdullah+Alnemr!;">
 </a>
-<!--
 </h1>
+<!--
 <h3 align="center">A passionate AI Engineer from Egypt </h3>
 <br/>
 -->
----
+
 
 <!--# Hi, I'm Abdullah 👋 -->  
 
@@ -37,9 +37,21 @@
 ### **Data Visualization**
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-006400?style=flat&logo=python&logoColor=white)   ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 
+### **Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)   ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+<!--
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+-->
 ### **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-0078D7?style=flat&logo=jupyter&logoColor=white)
-<!--![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) --> 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)    ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-0078D7?style=flat&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+
+---
 
 
 
@@ -94,7 +106,7 @@
 ## 📫 Contact Me  
 
 - 📧 **Email**: [alnemrabdullah2@gmail.com](mailto:alnemrabdullah2@gmail.com)  
-- 🌐 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 🌐 **LinkedIn**: [MY LinkedIn](https://www.linkedin.com/in/yourprofile)  
 - 🌐 **GitHub**: [elnemr19](https://github.com/elnemr19)
 - 🌐 **Kaggle**: [abdullahalnemr](https://www.kaggle.com/abdullahalnemr)
 <!-- - 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  -->
