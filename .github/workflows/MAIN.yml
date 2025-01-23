@@ -22,12 +22,12 @@ jobs:
       # Show the status of the build for debugging
       - run: git status
 
-      # Push the changes with correct permissions
+      # Push the changes to the `main` branch
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main  # Updated to main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
