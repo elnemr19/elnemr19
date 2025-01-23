@@ -1,26 +1,3 @@
-
-
-<!--
-## Hi there 👋
-**elnemr19/elnemr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
 # Hi, I'm Abdullah 👋  
 
 🚀 **AI | Machine Learning Engineer | Deep Learning | Computer vision | Data Scientist**  
@@ -29,7 +6,8 @@ Here are some ideas to get you started:
 🎓 **Final-year student at Benha University (AI Department)**  
 🌍 From Qalyoub, Qalyubia, Egypt  
 
-🌐 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahalnemr/)   📩 [![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:alnemrabdullah2@gmail.com)  
+🌐 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahalnemr/)  
+📩 [![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:alnemrabdullah2@gmail.com)  
 <!--🌐 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)-->  
 
 ---
@@ -37,24 +15,18 @@ Here are some ideas to get you started:
 ## 🛠️ Skills
 
 ### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-<!--![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)-->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### **Machine Learning & AI**
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ### **Data Visualization**
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-006400?style=flat&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-006400?style=flat&logo=python&logoColor=white)   ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 
 ### **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-0078D7?style=flat&logo=jupyter&logoColor=white)
 <!--![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) --> 
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-0078D7?style=flat&logo=jupyter&logoColor=white)
 
 ### **Soft Skills**
 💡 Problem-Solving  
@@ -86,9 +58,9 @@ Here are some ideas to get you started:
 
 ## 🎓 Education  
 
-- **Bachelor of Science in Artificial Intelligence**
-  **Faculty of Computer Science and Artificial Intelligence** 
-  **Benha University** (2021 - 2025)  
+ **Bachelor of Science in Artificial Intelligence**
+ **Faculty of Computer Science and Artificial Intelligence** 
+ **Benha University** (2021 - 2025)  
   - Focus: Machine Learning, Computer Vision, Deep Learning, Algorithms, Data Structure, OOP, Data Base
   - GPA: 3.3/4.0  
 
@@ -105,9 +77,8 @@ Here are some ideas to get you started:
 
 - 📧 **Email**: [alnemrabdullah2@gmail.com](mailto:alnemrabdullah2@gmail.com)  
 - 🌐 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-<--!- 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  -->
 - 🌐 **GitHub**: [elnemr19](https://github.com/elnemr19)  
-
+<!-- - 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  -->
 ---
 
 🌟 **Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let’s create something amazing together!**
