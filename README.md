@@ -29,18 +29,16 @@ Here are some ideas to get you started:
 🎓 **Final-year student at Benha University (AI Department)**  
 🌍 From Qalyoub, Qalyubia, Egypt  
 
-🌐 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-📩 [![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:youremail@example.com)  
-🌐 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)  
+🌐 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahalnemr/)   📩 [![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:alnemrabdullah2@gmail.com)  
+<!--🌐 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)-->  
 
 ---
 
 ## 🛠️ Skills
 
 ### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+<!--![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)-->
 
 ### **Machine Learning & AI**
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
