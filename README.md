@@ -93,7 +93,6 @@
   - Focus: Machine Learning, Computer Vision, Deep Learning, Algorithms, Data Structure, OOP, Database
   - GPA: 3.3/4.0  
 
----
 <!--
 ## 📊 GitHub Stats  
 
@@ -103,6 +102,21 @@
 ---
 -->
 
+
+<hr/>
+<h2 align="center">📊 Stats</h2>
+<br/>
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=elnemr19&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnemr19&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+</div>
+<br/><br/>
+
+
+
+
+---
 ## 📫 Contact Me  
 
 - 📧 **Email**: [alnemrabdullah2@gmail.com](mailto:alnemrabdullah2@gmail.com)  
