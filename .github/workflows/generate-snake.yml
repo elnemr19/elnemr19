@@ -12,11 +12,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Snake
+      - name: Generate GitHub Snake (Light Mode)
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }} # Replace with your GitHub username if needed
           svg_out_path: dist/github-snake.svg
+
+      - name: Generate GitHub Snake (Dark Mode)
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }} # Replace with your GitHub username if needed
+          svg_out_path: dist/github-snake-dark.svg
+          theme: dark # Add this line to generate the dark version
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
