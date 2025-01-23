@@ -1,5 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elnemr19.elnemr19">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge/page_id-salesp07.salesp07" />
 <h1>
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Abdullah+Alnemr!;">
