@@ -1,0 +1,36 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Snake (Light Mode)
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }} # Replace with your GitHub username if needed
+          svg_out_path: dist/github-snake.svg
+          color: "#2d333b" # Snake color for light mode
+          background: "#ffffff" # Background color for light mode
+
+      - name: Generate GitHub Snake (Dark Mode)
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }} # Replace with your GitHub username if needed
+          svg_out_path: dist/github-snake-dark.svg
+          color: "#ffffff" # Snake color for dark mode
+          background: "#0d1117" # Background color for dark mode
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist # Directory containing the generated SVGs
+          publish_branch: output # Branch where the SVGs will be saved
