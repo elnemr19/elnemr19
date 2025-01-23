@@ -61,10 +61,10 @@
 🧠 Critical Thinking  
 
 ---
+<!--
 
 ## 💼 Projects
 
-<!--
 ### [🌦️ Weather Prediction App](https://github.com/YourUsername/WeatherPredictionApp)  
 - **Description**: A user-friendly web app for weather condition prediction using machine learning models.  
 - **Tech Stack**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white), ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
@@ -79,9 +79,9 @@
 - **Description**: A deep learning model trained on the FER2013 dataset to classify facial expressions into 7 categories.  
 - **Tech Stack**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white), ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  
 - **Key Challenges**: Addressed imbalanced datasets and overfitting by applying augmentation, dropout, and BatchNormalization.
--->
 
 ---
+-->
 
 ## 🎓 Education  
 
@@ -107,16 +107,31 @@
 <h2 align="center">📊 Stats</h2>
 <br/>
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=elnemr19&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnemr19&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=elnemr19&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnemr19&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+  </div>
 </div>
 <br/><br/>
 
-
-
-
 ---
+
+###
+
+
+<div align="center">
+<h2>💚 My Contributions 💚</h2>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/elnemr19/elnemr19/output/snake.svg" alt="Snake animation" />
+
+</div>
+<hr/>
+
+
+###
+
+
 ## 📫 Contact Me  
 
 - 📧 **Email**: [alnemrabdullah2@gmail.com](mailto:alnemrabdullah2@gmail.com)  
@@ -125,16 +140,6 @@
 - 🌐 **Kaggle**: [abdullahalnemr](https://www.kaggle.com/abdullahalnemr)
 <!-- - 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  -->
 ---
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/elnemr19/elnemr19/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
 🌟 **Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let’s create something amazing together!**
