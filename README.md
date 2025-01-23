@@ -28,6 +28,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-0078D7?style=flat&logo=jupyter&logoColor=white)
 <!--![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) --> 
 
+
+
 ### **Soft Skills**
 💡 Problem-Solving  
 👥 Teamwork  
@@ -59,25 +61,28 @@
 ## 🎓 Education  
 
  **Bachelor of Science in Artificial Intelligence**
+ 
  **Faculty of Computer Science and Artificial Intelligence** 
+ 
  **Benha University** (2021 - 2025)  
-  - Focus: Machine Learning, Computer Vision, Deep Learning, Algorithms, Data Structure, OOP, Data Base
+  - Focus: Machine Learning, Computer Vision, Deep Learning, Algorithms, Data Structure, OOP, Database
   - GPA: 3.3/4.0  
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
+-->
 ---
 
 ## 📫 Contact Me  
 
 - 📧 **Email**: [alnemrabdullah2@gmail.com](mailto:alnemrabdullah2@gmail.com)  
 - 🌐 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🌐 **GitHub**: [elnemr19](https://github.com/elnemr19)  
+- 🌐 **GitHub**: [elnemr19](https://github.com/elnemr19)
+- 🌐 **Kaggle**: [abdullahalnemr](https://www.kaggle.com/abdullahalnemr)
 <!-- - 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  -->
 ---
 
