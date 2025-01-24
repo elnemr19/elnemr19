@@ -93,14 +93,19 @@
   - Focus: Machine Learning, Computer Vision, Deep Learning, Algorithms, Data Structure, OOP, Database
   - GPA: 3.3/4.0  
 
-<!--
-## 📊 GitHub Stats  
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
 ---
--->
+
+<div align="center">
+<h2>💚 My Contributions 💚</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elnemr19/elnemr19/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elnemr19/elnemr19/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/elnemr19/profile/output/snake-light.svg" alt="Snake animation">
+</picture>
+</div>
+
+
 
 
 <hr/>
@@ -116,20 +121,6 @@
 
 ---
 
-###
-
-
-<div align="center">
-<h2>💚 My Contributions 💚</h2>
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/elnemr19/elnemr19/output/snake.svg" alt="Snake animation" />
-
-</div>
-<hr/>
-
-
-###
 
 
 ## 📫 Contact Me  
@@ -139,6 +130,7 @@
 - 🌐 **GitHub**: [elnemr19](https://github.com/elnemr19)
 - 🌐 **Kaggle**: [abdullahalnemr](https://www.kaggle.com/abdullahalnemr)
 <!-- - 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  -->
+
 ---
 
 
