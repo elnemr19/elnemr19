@@ -18,13 +18,22 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      # Generate snake-light.svg for light mode
+      - name: generate snake-light.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-light  # Use the light theme palette
+          outputs: dist/snake-light.svg?palette=github-light
 
-      - name: push snake.svg to the output branch
+      # Generate snake-dark.svg for dark mode
+      - name: generate snake-dark.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake-dark.svg?palette=github-dark
+
+      # Push both SVGs to the output branch
+      - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
