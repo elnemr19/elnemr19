@@ -126,7 +126,7 @@
 ## 📫 Contact Me  
 
 - 📧 **Email**: [alnemrabdullah2@gmail.com](mailto:alnemrabdullah2@gmail.com)  
-- 🌐 **LinkedIn**: [MY LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 🌐 **LinkedIn**: [MY LinkedIn](https://www.linkedin.com/in/abdullahalnemr/)  
 - 🌐 **GitHub**: [elnemr19](https://github.com/elnemr19)
 - 🌐 **Kaggle**: [abdullahalnemr](https://www.kaggle.com/abdullahalnemr)
 <!-- - 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  -->
